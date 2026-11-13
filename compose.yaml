@@ -1,0 +1,5 @@
+services:
+  web:
+    image: nginx:alpine
+    environment:
+      SWEEP_LABEL: sweep-a2-1113
