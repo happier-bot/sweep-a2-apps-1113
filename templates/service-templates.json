@@ -1,0 +1,15 @@
+{
+  "sweep-a2-148-valid": {
+    "name": "SWEEP A2 148 Licensed App",
+    "slogan": "Owned QA detail fixture",
+    "license": "MIT",
+    "filename": "sweep-a2-148-valid.yaml",
+    "documentation": "https://github.com/happier-bot/sweep-a2-apps-1113"
+  },
+  "sweep-a2-148-review": {
+    "name": "SWEEP A2 148 Review App",
+    "slogan": "Owned QA missing body fixture",
+    "license": "MIT",
+    "filename": "sweep-a2-148-missing.yaml"
+  }
+}
